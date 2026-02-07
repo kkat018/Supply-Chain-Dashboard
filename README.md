@@ -1,6 +1,6 @@
 # Supply-Chain-Dashboard
-A Power BI project analyzing 180,000+ logistics transactions to identify root causes of shipping delays and financial leakage
-
+A Power BI project analyzing 180,000+ logistics transactions to identify root causes of shipping delays and financial leakage.<br>
+Dataset: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 ## Global Supply Chain Control Tower 📦
 A Power BI project analyzing 180,000+ logistics transactions to identify root causes of shipping delays and financial leakage.
 
